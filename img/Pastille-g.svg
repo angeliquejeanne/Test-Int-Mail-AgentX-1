@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="93px" height="184px" viewBox="0 0 93 184" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L93 0L93 184L0 184L0 0Z" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Pastille" style="mix-blend-mode: multiply;">
+    <path d="M0 0L93 0L93 184L0 184L0 0Z" id="Clip-2" fill="none" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <path d="M93.6922 159.159C58.1841 159.159 29.2955 130.576 29.2955 95.4435C29.2955 92.4798 31.7246 90.077 34.7202 90.077C37.7164 90.077 40.1451 92.4798 40.1451 95.4435C40.1451 124.658 64.1661 148.426 93.6922 148.426C123.225 148.426 147.253 124.658 147.253 95.4435C147.253 92.4798 149.681 90.077 152.677 90.077C155.673 90.077 158.102 92.4798 158.102 95.4435C158.102 130.576 129.208 159.159 93.6922 159.159M92.997 0C41.6445 0 0 41.1879 0 91.9981C0 142.807 41.6445 184 92.997 184C144.365 184 186 142.807 186 91.9981C186 41.1879 144.365 0 92.997 0" transform="translate(3 0)" id="Fill-1" fill="#E42313" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg width="89px" height="186px" viewBox="0 0 89 186" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <path d="M0 0L88 0L88 186L0 186L0 0Z" transform="translate(0.5 0)" id="path_1" />
+    <clipPath id="mask_1">
+      <use xlink:href="#path_1" />
+    </clipPath>
+  </defs>
+  <g id="Pastille" style="mix-blend-mode: multiply;">
+    <path d="M0 0L88 0L88 186L0 186L0 0Z" transform="translate(0.5 0)" id="Rectangle" fill="none" fill-rule="evenodd" stroke="none" />
+    <g clip-path="url(#mask_1)">
+      <path d="M84.6252 145.319C52.5534 145.319 26.4604 119.222 26.4604 87.144C26.4604 84.4381 28.6544 82.2442 31.3602 82.2442C34.0664 82.2442 36.2601 84.4381 36.2601 87.144C36.2601 113.819 57.9565 135.52 84.6252 135.52C111.3 135.52 133.002 113.819 133.002 87.144C133.002 84.4381 135.196 82.2442 137.902 82.2442C140.608 82.2442 142.802 84.4381 142.802 87.144C142.802 119.222 116.704 145.319 84.6252 145.319M83.9973 0C37.6144 0 0 37.6063 0 83.9982C0 130.389 37.6144 168 83.9973 168C130.394 168 168 130.389 168 83.9982C168 37.6063 130.394 0 83.9973 0" transform="translate(-84 8)" id="Fill-1" fill="#E42313" fill-rule="evenodd" stroke="none" />
+    </g>
+  </g>
+</svg>
