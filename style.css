@@ -368,8 +368,16 @@ footer {
 }
 footer .univers-content {
     display: flex;
-    justify-content: space-around;
     align-items: center;
+}
+footer .univers-content .univers-content-one{
+    display: flex;
+}
+footer .univers-content .univers-content-two{
+    display: flex;
+}
+footer .univers-content .card-content {
+    margin: 0px 20px;
 }
 footer .services-content {
     margin: 30px auto;
@@ -401,16 +409,20 @@ footer .services-content span {
 
 footer .services-lignes{
     display: flex;
+    flex-direction: row;
     align-items: center;
     justify-content: center;
     margin: 20px auto;
 }
-footer .services-lignes div{
+footer .services-lignes .service-content {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     margin-left: 10px;
-    width: 140px;
+    /* width: 140px; */
+}
+footer .services-lignes .service-content div {
+    margin-left: 20px;
 }
 footer .services-lignes div p {
     font-size: 11px;
@@ -426,6 +438,12 @@ footer .socials {
 }
 footer .socials a{
     margin: 0px 5px;
+}
+footer .logos-content-desktop {
+    display: block;
+}
+footer .logos-content-mob {
+    display: none;
 }
 footer .logos-container .logos-content {
     margin: 10px auto;

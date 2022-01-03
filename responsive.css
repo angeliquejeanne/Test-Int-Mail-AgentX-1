@@ -1,0 +1,40 @@
+@media screen and (max-width: 767px) {
+    main {
+        margin: 20px 0px 0px;
+        padding: 0px;
+    }
+    main .img-cta {
+        display: flex;
+        flex-direction: column;
+    }
+    footer .univers-content {
+        display: flex;
+        flex-direction: column;
+    }
+    footer .univers-content .card-content {
+        margin: 0px;
+    }
+    footer .univers-content .univers-content-one {
+        display: flex;
+        flex-direction: row;
+    }
+    footer .univers-content .univers-content-two {
+        display: flex;
+        flex-direction: row;
+    }
+    footer .service-lignes div{
+        margin: 0;
+        flex-direction: column;
+    }
+    footer .services-lignes .service-content {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    footer .logos-content-desktop {
+        display: none;
+    }
+    footer .logos-content-mob {
+        display: block;
+    }
+}
